@@ -1,4 +1,7 @@
-# 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ayush Singhal
+======================================================================================================================================
+
+## 💫 About Me:
 🌍 Based in India<br>🤝 Actively seeking new work opportunities<br>🔭 Building Druling (druling.com) — [Enterprise Agent platfor]<br>👯 Open to collaborating on: open-source AI agents, privacy-preserving middleware, and backend observability with OpenTelemetry<br>🌱 Currently exploring: AI agents, local LLMs, and quantitative finance / algo trading<br>💬 Ask me about backend scaling, AWS infrastructure, distributed systems, and production AI systems<br>⚡ There's a world outside my terminal too — ask me about it
 
 
