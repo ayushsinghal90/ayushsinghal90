@@ -2,7 +2,7 @@ Hi there! I'm Ayush Singhal
 ======================================================================================================================================
 
 ## 💫 About Me:
-🌍 Based in India<br>🤝 Actively seeking new work opportunities<br>🔭 Building Druling (druling.com) — [Enterprise Agent platfor]<br>👯 Open to collaborating on: open-source AI agents, privacy-preserving middleware, and backend observability with OpenTelemetry<br>🌱 Currently exploring: AI agents, local LLMs, and quantitative finance / algo trading<br>💬 Ask me about backend scaling, AWS infrastructure, distributed systems, and production AI systems<br>⚡ There's a world outside my terminal too — ask me about it
+🤝 Actively seeking new work opportunities [EU]<br>🔭 Building Druling (druling.com) — [Enterprise Agent platfor]<br>👯 Open to collaborating on: open-source AI agents, privacy-preserving middleware, and backend observability with OpenTelemetry<br>🌱 Currently exploring: AI agents, local LLMs, and quantitative finance / algo trading<br>💬 Ask me about backend scaling, AWS infrastructure, distributed systems, and production AI systems<br>⚡ There's a world outside my terminal too — ask me about it
 
 
 ## 🌐 Socials:
